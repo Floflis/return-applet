@@ -1,0 +1,9 @@
+{
+"uuid": "return@floflis",
+"name": "Return",
+"description": "Click to trigger the back button (Android/Cordova/Floflis)",
+"icon": "gtk-go-back-ltr",
+"contributors": "Daniella Mesquita",
+"author": "Floflis DAO",
+ "max-instances": -1
+}
